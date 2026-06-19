@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "headstealsmp-qObE.aternos.me",
+    "ip": "headstealsmp-qObE.aternos.me:63914",
     "port": 63914,
     "version": "",
     "try-creative": false
