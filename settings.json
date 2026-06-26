@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "headstealsmp-qObE.aternos.me",
-    "port": 63914,
+    "ip": "smp1-wf1L.aternos.me",
+    "port": 25740,
     "version": "",
     "try-creative": false
   },
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
